@@ -7,6 +7,7 @@
 
 	body {
 		background: #fff;
+		font-family: "Microsoft YaHei" ! important;
 	}
 
 	body, input, select, textarea {
@@ -114,7 +115,7 @@
 	}
 
 	.copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
-	
+
 	code {
 		background: #555;
 		border-radius: 5px;
